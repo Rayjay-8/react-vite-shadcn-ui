@@ -1,9 +1,9 @@
 [ok] - Selecionar um dos emails e id
 [ok] - salvar localstorage
 [ok] - no f5 fazer o requests total guardado
-[] - fazer botão para "Sacar"
-[] - criar botão criar "Adicionar saldo"
-[] - historico de transferencias
+[OK] - fazer botão para "Sacar"
+[ok] - criar botão criar "Adicionar saldo"
+[ok] - historico de transferencias
 
 
 https://usehooks-ts.com/react-hook/use-local-storage

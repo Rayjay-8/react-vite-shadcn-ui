@@ -9,3 +9,7 @@ export const dados = {
 export const historicotransacoes = [
    {id: 1, userid: 1, operacao: "adicao", valor: 1, data: '08/10/2024 19:30:00', idbanco: 123}
 ]
+
+export const parcelacasaporcent = 2
+
+export const saldocasa = 0
